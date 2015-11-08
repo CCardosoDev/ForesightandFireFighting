@@ -1,0 +1,41 @@
+/* 
+    Document   : indexContent
+    Created on : Apr 7, 2013, 10:49:39 PM
+    Author     : tiagosousa
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+
+#terrainFrame{
+     width: 100%;
+     height: 400px;
+}
+
+.fr {
+    float:right;
+}
+
+.margin10px {
+    padding-top:10px;
+}
+
+.alerts {
+    margin:0px;
+    padding: 0px;
+    padding-top:10px;
+}
+
+.centerb {
+    text-align:center;
+    margin-top:-15px;
+}
+
+.mr {
+    margin-right:10px;
+}
+
+.ml {
+    margin-left:10px;
+}
+

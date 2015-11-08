@@ -1,0 +1,22 @@
+ wind.obs                                                                       
+  
+ abri o wind.obs
+ abri o topo
+ abri o output
+ Title:
+ Gestosa 165x138, resolucao de 10 m. 30/05/2002                                 
+  
+ CALLING SETUP
+ CALLING OBSWND
+           1 ##############000000000
+  STN.  1
+ li o fich wind
+ UNDERLYING TERRAIN AT LAST OB IS  -2.0593353E+13
+ SURROUNDING TERRAIN IS AT            1           1
+   816.9973       816.9973    
+  0.0000000E+00   816.9973    
+        0.9967   0.59   0.54
+
+  THE FOLLOWING  1 STATIONS REPORTED:
+     1
+ CALLING POISN

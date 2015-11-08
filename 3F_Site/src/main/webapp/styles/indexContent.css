@@ -1,0 +1,53 @@
+/* 
+    Document   : indexContent
+    Created on : Apr 7, 2013, 10:49:39 PM
+    Author     : tiagosousa
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.map-topo {
+    background-image: url(http://netcomsupport.com/images/ws_jquery_tools/overlay_page/ws_google_map.jpg);
+    width: 100%;
+    height: 210px;
+    border-radius: 4px;
+    background-size: 600px 392px;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.15);
+}
+.graphs {
+    background-image: url(http://webgis.wr.usgs.gov/globalgis/images/tutorials/chart_line.gif);
+    background-position: 0px -15px;
+    width: 100%;
+    height: 190px;
+    border-radius: 4px;
+    background-size: 350px 210px;
+    margin-top:30px;
+}
+
+.fr {
+    float:right;
+}
+
+.margin10px {
+    padding-top:10px;
+}
+
+.alerts {
+    margin:0px;
+    padding: 0px;
+    padding-top:10px;
+}
+
+.centerb {
+    text-align:center;
+    margin-top:10px;
+}
+
+.mr {
+    margin-right:10px;
+}
+
+.ml {
+    margin-left:10px;
+}
+
